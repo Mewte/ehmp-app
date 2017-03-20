@@ -57,3 +57,4 @@ To continue, search and select a patient. A good patient to begin with for testi
 Confirm the patient selection on the right hand side of the screen and also confirm any notices that may appear.
 
 Upon successful patient selection, you should see the overview workspace.
+
